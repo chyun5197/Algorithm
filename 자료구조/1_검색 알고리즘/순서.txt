@@ -1,0 +1,6 @@
+이진탐색: B1920, B2805
+해시법: B1920 겹침
+
+B1920
+정렬하고 한번에 할지
+https://not-to-be-reset.tistory.com/554
